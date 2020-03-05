@@ -11,7 +11,7 @@ la BDD est H2
 Steps to Setup and test :
 1. Clone the application
 
-git clone https://github.com/scbushan05/book-api-spring-boot.git
+git clone https://github.com/idiramine/BookApiREST.git
 
 2. Build and run the app using maven
 
